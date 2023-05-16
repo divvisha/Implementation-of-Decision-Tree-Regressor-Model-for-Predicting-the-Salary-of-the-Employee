@@ -69,11 +69,11 @@ dt.predict([[5,6]])
 ## Output:
 
 
-<img width="200" alt="ex7 op1" src="https://github.com/divvisha/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/127508123/25035939-8508-4cc6-9096-29c4a4896cc4">
+<img width="200" alt="ex7 op1" src="https://github.com/divvisha/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/127508123/25035939-8508-4cc6-9096-29c4a4896cc4">\n
 
 
 
-<img width="320" alt="ex7 op2" src="https://github.com/divvisha/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/127508123/a86887c6-1040-4016-ae69-9fc073ac8b91">
+<img width="320" alt="ex7 op2" src="https://github.com/divvisha/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/127508123/a86887c6-1040-4016-ae69-9fc073ac8b91">\n
 
 
 
