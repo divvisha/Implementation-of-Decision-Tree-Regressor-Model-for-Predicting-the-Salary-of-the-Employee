@@ -70,17 +70,24 @@ dt.predict([[5,6]])
 
 <img width="200" alt="ex7 op1" src="https://github.com/divvisha/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/127508123/25035939-8508-4cc6-9096-29c4a4896cc4">
 
+
 <img width="320" alt="ex7 op2" src="https://github.com/divvisha/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/127508123/a86887c6-1040-4016-ae69-9fc073ac8b91">
+
 
 <img width="177" alt="ex7 op3" src="https://github.com/divvisha/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/127508123/dad67506-8cf2-49f6-ab0b-9378782be680">
 
+
 <img width="168" alt="ex7 op4" src="https://github.com/divvisha/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/127508123/1b2df097-22de-40c0-a0fa-f85c474b7d77">
+
 
 <img width="527" alt="ex7 op5" src="https://github.com/divvisha/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/127508123/d44c1e91-ae24-4b7c-99df-3cc3504f22de">
 
+
 <img width="450" alt="ex7 op6" src="https://github.com/divvisha/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/127508123/582ca0a9-0eb9-42bf-a210-929f8f57adbf">
 
+
 <img width="881" alt="ex7 op7" src="https://github.com/divvisha/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/127508123/c08d74d6-615e-4996-89bb-27db7a46ae23">
+
 
 
 
